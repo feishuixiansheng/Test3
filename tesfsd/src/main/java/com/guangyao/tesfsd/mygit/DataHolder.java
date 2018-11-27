@@ -14,8 +14,10 @@ import java.util.Map;
  * Date: 2017-03-20  07:01
  */
 public class DataHolder {
-    public static final String DH_CURRENT_IMAGE_FOLDER_ITEMSa = "dh_current_image_folder_items";
-
+    public static final String DH_CURRENT_IMAGE_FOLDER_ITEMSa1sdad = "dh_current_image_folder_items";
+    /**
+     * ewrdfwsfd
+     */
     private static DataHolder mInstance;
     private Map<String, List<ImageItem>> data;
 
