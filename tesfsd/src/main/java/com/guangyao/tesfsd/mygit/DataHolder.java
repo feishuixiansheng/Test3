@@ -18,6 +18,11 @@ public class DataHolder {
     /**
      * ewrdfwsfd
      */
+
+
+    /**
+     * todo 撒打发十分大师傅反对斯克附近的刷卡机
+     */
     private static DataHolder mInstance;
     private Map<String, List<ImageItem>> data;
 
